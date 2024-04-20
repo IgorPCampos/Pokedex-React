@@ -1,0 +1,35 @@
+.pokemonInfo {
+  font-family: "Arial", sans-serif;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 20px;
+}
+
+.pokemonInfo h2 {
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+.types {
+  margin-top: 20px;
+}
+
+.types h3 {
+  font-size: 18px;
+  color: #555555;
+  margin-bottom: 10px;
+}
+
+.types ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.types li {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #333333;
+}
